@@ -1,5 +1,7 @@
 # Awesome Православље [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Сајтови, текстови, музика, медији и програми Православне Цркве на српском језику.
 
 Листа ресурса на српском језику. Део је листе [Awesome Orthodoxy](../../README.md), где се налазе и листе на другим језицима.

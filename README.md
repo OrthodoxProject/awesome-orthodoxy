@@ -1,5 +1,7 @@
 # Awesome Orthodoxy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"><img src="media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Websites, texts, music, media, and software of the Eastern Orthodox Church.
 
 The [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church) is a communion of self-governing churches that share the faith, worship, and tradition of the early Christian Church. This list covers English-language and international resources. Lists in other languages follow the same structure and are linked below.
@@ -38,14 +40,14 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ## Lists by Language
 
-- [Български](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/bg#readme) - Resources in Bulgarian.
-- [ქართული](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ka#readme) - Resources in Georgian.
-- [Ελληνικά](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/el#readme) - Resources in Greek, from Greece, Cyprus, Constantinople, and Mount Athos.
-- [Македонски](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/mk#readme) - Resources in Macedonian.
-- [Română](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ro#readme) - Resources in Romanian, from Romania, Moldova, and the diaspora.
-- [Русский](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ru#readme) - Resources in Russian.
-- [Српски](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/sr#readme) - Resources in Serbian.
-- [Українська](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/uk#readme) - Resources in Ukrainian.
+- [🇧🇬 Български](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/bg#readme) - Resources in Bulgarian.
+- [🇬🇪 ქართული](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ka#readme) - Resources in Georgian.
+- [🇬🇷 Ελληνικά](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/el#readme) - Resources in Greek, from Greece, Cyprus, Constantinople, and Mount Athos.
+- [🇲🇰 Македонски](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/mk#readme) - Resources in Macedonian.
+- [🇷🇴 Română](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ro#readme) - Resources in Romanian, from Romania, Moldova, and the diaspora.
+- [🇷🇺 Русский](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/ru#readme) - Resources in Russian.
+- [🇷🇸 Српски](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/sr#readme) - Resources in Serbian.
+- [🇺🇦 Українська](https://github.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/uk#readme) - Resources in Ukrainian.
 
 ## Official Websites
 

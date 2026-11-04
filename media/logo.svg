@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Cross with IC XC NIKA">
+  <circle cx="256" cy="256" r="224" fill="#7b1e2b"/>
+  <circle cx="256" cy="256" r="204" fill="none" stroke="#d4af37" stroke-width="6"/>
+  <g fill="#d4af37">
+    <rect x="234" y="96" width="44" height="320"/>
+    <rect x="96" y="234" width="320" height="44"/>
+  </g>
+  <g fill="#d4af37" font-family="Georgia, 'Times New Roman', serif" font-size="62" text-anchor="middle">
+    <text x="166" y="200">IC</text>
+    <text x="346" y="200">XC</text>
+    <text x="166" y="362">NI</text>
+    <text x="346" y="362">KA</text>
+  </g>
+</svg>

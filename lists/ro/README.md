@@ -1,5 +1,7 @@
 # Awesome Ortodoxie [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Site-uri, texte, muzică, media și aplicații ale Bisericii Ortodoxe, în limba română.
 
 Lista cuprinde resurse în limba română din România, Republica Moldova și diaspora. Face parte din [Awesome Orthodoxy](../../README.md), unde găsești și listele în alte limbi.
