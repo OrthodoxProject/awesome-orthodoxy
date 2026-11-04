@@ -4,7 +4,9 @@
 
 > Site-uri, texte, muzică, media și aplicații ale Bisericii Ortodoxe, în limba română.
 
-Lista cuprinde resurse în limba română din România, Republica Moldova și diaspora. Face parte din [Awesome Orthodoxy](../../README.md), unde găsești și listele în alte limbi.
+[🌐 English](../../README.md) · [🇧🇬 Български](../bg/README.md) · [🇬🇪 ქართული](../ka/README.md) · [🇬🇷 Ελληνικά](../el/README.md) · [🇲🇰 Македонски](../mk/README.md) · **🇷🇴 Română** · [🇷🇺 Русский](../ru/README.md) · [🇷🇸 Српски](../sr/README.md) · [🇺🇦 Українська](../uk/README.md)
+
+Lista cuprinde resurse în limba română din România, Republica Moldova și diaspora.
 
 Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](contributing.md).
 

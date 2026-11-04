@@ -1,15 +1,15 @@
 {
   "repository": "https://github.com/OrthodoxProject/awesome-orthodoxy",
   "languages": {
-    "en": { "name": "English", "file": "README.md" },
-    "bg": { "name": "Български", "file": "lists/bg/README.md" },
-    "el": { "name": "Ελληνικά", "file": "lists/el/README.md" },
-    "ka": { "name": "ქართული", "file": "lists/ka/README.md" },
-    "mk": { "name": "Македонски", "file": "lists/mk/README.md" },
-    "ro": { "name": "Română", "file": "lists/ro/README.md" },
-    "ru": { "name": "Русский", "file": "lists/ru/README.md" },
-    "sr": { "name": "Српски", "file": "lists/sr/README.md" },
-    "uk": { "name": "Українська", "file": "lists/uk/README.md" }
+    "en": { "name": "English", "flag": "🌐", "file": "README.md" },
+    "bg": { "name": "Български", "flag": "🇧🇬", "file": "lists/bg/README.md" },
+    "ka": { "name": "ქართული", "flag": "🇬🇪", "file": "lists/ka/README.md" },
+    "el": { "name": "Ελληνικά", "flag": "🇬🇷", "file": "lists/el/README.md" },
+    "mk": { "name": "Македонски", "flag": "🇲🇰", "file": "lists/mk/README.md" },
+    "ro": { "name": "Română", "flag": "🇷🇴", "file": "lists/ro/README.md" },
+    "ru": { "name": "Русский", "flag": "🇷🇺", "file": "lists/ru/README.md" },
+    "sr": { "name": "Српски", "flag": "🇷🇸", "file": "lists/sr/README.md" },
+    "uk": { "name": "Українська", "flag": "🇺🇦", "file": "lists/uk/README.md" }
   },
   "languagesSection": "Lists by Language",
   "sections": [
