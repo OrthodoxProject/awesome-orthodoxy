@@ -1,0 +1,16 @@
+{
+  "name": "awesome-orthodoxy",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "test": "node scripts/validate.mjs",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "awesome-lint": "2.3.0",
+    "husky": "9.1.7"
+  }
+}
