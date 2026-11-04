@@ -4,7 +4,9 @@
 
 > Websites, texts, music, media, and software of the Eastern Orthodox Church.
 
-The [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church) is a communion of self-governing churches that share the faith, worship, and tradition of the early Christian Church. This list covers English-language and international resources. Lists in other languages follow the same structure and are linked below.
+**🌐 English** · [🇧🇬 Български](lists/bg/README.md) · [🇬🇪 ქართული](lists/ka/README.md) · [🇬🇷 Ελληνικά](lists/el/README.md) · [🇲🇰 Македонски](lists/mk/README.md) · [🇷🇴 Română](lists/ro/README.md) · [🇷🇺 Русский](lists/ru/README.md) · [🇷🇸 Српски](lists/sr/README.md) · [🇺🇦 Українська](lists/uk/README.md)
+
+The [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church) is a communion of self-governing churches that share the faith, worship, and tradition of the early Christian Church. This list covers English-language and international resources. Lists in other languages follow the same structure.
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 

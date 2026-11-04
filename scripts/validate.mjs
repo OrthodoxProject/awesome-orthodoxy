@@ -147,12 +147,24 @@ function checkSections(code, file, lines) {
 	}
 }
 
-function checkLinks(code, file, text) {
-	if (code !== mainLanguage) {
-		if (!text.includes('](../../README.md)')) {
-			report(file, 0, 'Missing link back to the main list: [Awesome Orthodoxy](../../README.md)');
-		}
+// The same language bar appears near the top of every list, with the current language in bold.
+function languageBar(code) {
+	const folder = path.posix.dirname(structure.languages[code].file);
 
+	return languages.map(([otherCode, language]) => {
+		const label = `${language.flag} ${language.name}`;
+		return otherCode === code ? `**${label}**` : `[${label}](${path.posix.relative(folder, language.file)})`;
+	}).join(' · ');
+}
+
+function checkLinks(code, file, text, lines) {
+	const bar = languageBar(code);
+
+	if (!lines.includes(bar)) {
+		report(file, 0, `Missing or outdated language bar, add this line under the description:\n${bar}`);
+	}
+
+	if (code !== mainLanguage) {
 		return;
 	}
 
@@ -174,6 +186,12 @@ function checkStructureFile() {
 		}
 	}
 
+	for (const [code, language] of languages) {
+		if (!language.name || !language.flag || !language.file) {
+			report('lists/structure.json', 0, `Language "${code}" needs a name, a flag, and a file`);
+		}
+	}
+
 	for (const section of structure.sections.flatMap(section => [section, ...(section.subsections ?? [])])) {
 		for (const [code] of languages) {
 			if (!section.title[code]) {
@@ -192,9 +210,10 @@ for (const [code, language] of languages) {
 	}
 
 	const text = fs.readFileSync(language.file, 'utf8');
+	const lines = text.split(/\r?\n/);
 	await runAwesomeLint(code, language.file);
-	checkSections(code, language.file, text.split(/\r?\n/));
-	checkLinks(code, language.file, text);
+	checkSections(code, language.file, lines);
+	checkLinks(code, language.file, text, lines);
 }
 
 console.log(`\n${languages.length} lists checked: ${errors} errors, ${warnings} warnings`);

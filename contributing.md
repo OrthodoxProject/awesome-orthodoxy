@@ -35,9 +35,10 @@ Use this format:
 ## Add a New Language
 
 1. Create `lists/<code>/README.md` and `lists/<code>/contributing.md`, where `<code>` is the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) code of the language.
-2. Add the language and a title for every section to [lists/structure.json](lists/structure.json).
+2. Add the language (name, flag, file) and a title for every section to [lists/structure.json](lists/structure.json).
 3. Add the new list to the `Lists by Language` section of [README.md](README.md).
-4. Start from an existing list: title, badge, description, link back to the main list, and `## Contents` (always in English).
+4. Start from an existing list: title, badge, logo, description, language bar, and `## Contents` (always in English).
+5. Update the language bar in every list. `npm test` prints the exact line each list needs.
 
 ## Check Your Changes
 
@@ -54,6 +55,6 @@ npm test
 
 - every list passes the [awesome-lint](https://github.com/sindresorhus/awesome-lint) rules;
 - every list uses the sections from `lists/structure.json`, in order, without empty sections;
-- every list links back to the main list, and the main list links to every language.
+- every list has the same language bar, and the main list links to every language in `Lists by Language`.
 
 On pull requests, CI also runs the official `awesome-lint` on `README.md` and checks the links of the changed files with [lychee](https://lychee.cli.rs). The links of all lists are checked every week.
