@@ -1,5 +1,7 @@
 # Awesome Православ'я [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Сайти, тексти, музика, медіа та програми православних церков українською мовою.
 
 Список ресурсів українською мовою. Він є частиною [Awesome Orthodoxy](../../README.md), де зібрано й списки іншими мовами.

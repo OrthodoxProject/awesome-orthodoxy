@@ -1,5 +1,7 @@
 # Awesome Православие [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Веб-страници, текстови, музика, медиуми и софтвер на Православната црква на македонски јазик.
 
 Листа на ресурси на македонски јазик. Дел е од [Awesome Orthodoxy](../../README.md), каде што се и листите на други јазици.

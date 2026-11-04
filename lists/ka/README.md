@@ -1,5 +1,7 @@
 # Awesome მართლმადიდებლობა [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > მართლმადიდებელი ეკლესიის ვებგვერდები, ტექსტები, მუსიკა და მედია ქართულ ენაზე.
 
 ეს სია ქართულენოვან რესურსებს აერთიანებს. ის [Awesome Orthodoxy](../../README.md)-ის ნაწილია, სადაც სხვა ენებზე არსებული სიებიც არის.

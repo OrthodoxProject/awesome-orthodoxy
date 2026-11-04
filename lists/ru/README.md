@@ -1,5 +1,7 @@
 # Awesome Православие [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<a href="../../README.md"><img src="../../media/logo.svg" width="160" align="right" alt="IC XC NIKA"></a>
+
 > Сайты, тексты, музыка, медиа и программы Православной Церкви на русском языке.
 
 Список ресурсов на русском языке. Он входит в [Awesome Orthodoxy](../../README.md), где собраны и списки на других языках.
