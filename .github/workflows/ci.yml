@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Check all lists
+        run: npm test
+      - name: Run the official awesome-lint on the main list
+        run: npx awesome-lint
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Select files
+        id: files
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE: ${{ github.base_ref }}
+        run: |
+          if [ "$EVENT" = "pull_request" ]; then
+            files=$(git diff --name-only --diff-filter=AM "origin/$BASE...HEAD" -- '*.md' | tr '\n' ' ')
+          else
+            files="README.md lists/*/README.md"
+          fi
+          echo "list=$files" >> "$GITHUB_OUTPUT"
+      - name: Check links
+        if: steps.files.outputs.list != ''
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: ${{ steps.files.outputs.list }}
+          fail: true

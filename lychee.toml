@@ -1,0 +1,12 @@
+# Link checker settings: https://lychee.cli.rs
+
+max_retries = 3
+timeout = 30
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+# Some church websites block automated requests (403) or rate limit them (429).
+accept = ["200..=299", "403", "429"]
+
+# Links to the language lists only exist on main after a pull request is merged.
+# npm test checks that these folders exist.
+exclude = ["^https://github\\.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/"]
