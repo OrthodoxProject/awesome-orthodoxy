@@ -30,13 +30,15 @@ jobs:
         env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+  # Pull requests check only the links they add; the weekly (or manual) run checks every link.
+  # Pushes to main skip this job, since their links were already checked in the pull request.
   links:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      # Pull requests check only the links they add; the weekly run checks every link.
       - name: Select links
         id: files
         env:
