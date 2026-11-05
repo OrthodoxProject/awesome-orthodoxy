@@ -36,14 +36,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Select files
+      # Pull requests check only the links they add; the weekly run checks every link.
+      - name: Select links
         id: files
         env:
           EVENT: ${{ github.event_name }}
           BASE: ${{ github.base_ref }}
         run: |
           if [ "$EVENT" = "pull_request" ]; then
-            files=$(git diff --name-only --diff-filter=AM "origin/$BASE...HEAD" -- '*.md' | tr '\n' ' ')
+            git diff -U0 "origin/$BASE...HEAD" -- '*.md' | grep '^+[^+]' | grep -oE 'https?://[^ )>"]+' | sort -u > added-links.txt || true
+            if [ -s added-links.txt ]; then files="added-links.txt"; else files=""; fi
           else
             files="README.md lists/*/README.md"
           fi
