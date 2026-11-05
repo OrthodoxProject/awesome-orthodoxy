@@ -57,4 +57,4 @@ npm test
 - every list uses the sections from `lists/structure.json`, in order, without empty sections;
 - every list has the same language bar, and the main list links to every language in `Lists by Language`.
 
-On pull requests, CI also runs the official `awesome-lint` on `README.md` and checks the links of the changed files with [lychee](https://lychee.cli.rs). The links of all lists are checked every week.
+On pull requests, CI also runs the official `awesome-lint` on `README.md` and checks the links the pull request adds with [lychee](https://lychee.cli.rs). The links of all lists are checked every week.
