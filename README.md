@@ -33,7 +33,8 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
   - [Conferences and Talks](#conferences-and-talks)
 - [Iconography and Sacred Art](#iconography-and-sacred-art)
 - [Monasteries and Pilgrimage](#monasteries-and-pilgrimage)
-- [Education](#education)
+- [Theological Schools](#theological-schools)
+  - [Higher Education](#higher-education)
 - [Apps and Software](#apps-and-software)
   - [Desktop Software](#desktop-software)
   - [Fonts](#fonts)
@@ -145,7 +146,9 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 - [Holy Trinity Monastery](https://www.jordanville.org) - Monastery and seminary of the Russian Church Abroad in Jordanville, New York.
 - [Monastery of St. Tikhon of Zadonsk](https://www.sttikhonsmonastery.org) - Monastery of the Orthodox Church in America in South Canaan, Pennsylvania.
 
-## Education
+## Theological Schools
+
+### Higher Education
 
 - [St Vladimir's Orthodox Theological Seminary](https://www.svots.edu) - Graduate school of theology in Yonkers, New York.
 - [Hellenic College Holy Cross](https://www.hchc.edu) - College and school of theology of the Greek Orthodox Archdiocese in Brookline, Massachusetts.
