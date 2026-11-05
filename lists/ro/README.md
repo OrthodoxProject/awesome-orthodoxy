@@ -30,7 +30,9 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
   - [Canale video](#canale-video)
 - [Iconografie și artă sacră](#iconografie-și-artă-sacră)
 - [Mănăstiri și pelerinaje](#mănăstiri-și-pelerinaje)
-- [Educație](#educație)
+- [Școli teologice](#școli-teologice)
+  - [Seminarii și licee teologice](#seminarii-și-licee-teologice)
+  - [Facultăți de teologie](#facultăți-de-teologie)
 - [Aplicații și software](#aplicații-și-software)
   - [Aplicații mobile](#aplicații-mobile)
 
@@ -120,10 +122,64 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Mănăstirea Stavropoleos](https://www.stavropoleos.ro) - Mănăstire din centrul Bucureștiului, cunoscută pentru corul psaltic și biblioteca sa.
 - [Basilica Travel](https://basilicatravel.ro) - Agenția de pelerinaje a Patriarhiei Române.
 
-## Educație
+## Școli teologice
 
-- [Teologie Ortodoxă Iași](https://teologie.uaic.ro) - Facultatea „Sfântul Dumitru Stăniloae” a Universității „Alexandru Ioan Cuza”.
-- [Teologie Ortodoxă Sibiu](https://teologie.ulbsibiu.ro) - Facultatea „Andrei Șaguna” a Universității „Lucian Blaga”.
+### Seminarii și licee teologice
+
+- [Liceul Teologic Ortodox „Cuvioasa Parascheva”](https://seminarulagapia.ro) - Agapia, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Ortodox „Sfântul Simion Ștefan”](http://seminaralba.ro) - Alba Iulia, Arhiepiscopia Alba Iuliei.
+- [Seminarul Teologic Liceal „Sfântul Iosif Mărturisitorul”](https://www.seminarulbm.ro) - Baia Mare, Episcopia Maramureșului și Sătmarului.
+- [Seminarul Teologic Liceal Ortodox „Sfântul Gheorghe”](https://seminarulbotosani.ro) - Botoșani, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Ortodox Liceal „Dumitru Stăniloae”](https://seminarulteologicbrasov.ro) - Brașov, Arhiepiscopia Sibiului.
+- [Seminarul Teologic Liceal Ortodox „Sfânta Filofteia”](https://manastireapasarea.ro/seminar.html) - Brănești, Arhiepiscopia Bucureștilor.
+- [Seminarul Teologic Ortodox „Nifon Mitropolitul”](https://seminarortodoxbucuresti.ro) - București, Arhiepiscopia Bucureștilor.
+- [Seminarul Teologic Ortodox „Chesarie Episcopul”](https://seminarulteologicbuzau.ro) - Buzău, Arhiepiscopia Buzăului și Vrancei.
+- [Seminarul Teologic Ortodox „Episcop Ioan Popasu”](https://www.seminarulcaransebes.ro) - Caransebeș, Episcopia Caransebeșului.
+- [Seminarul Teologic Ortodox „Iustin Patriarhul”](https://www.justinpatriarhul.ro) - Câmpulung, Arhiepiscopia Argeșului și Muscelului.
+- [Seminarul Teologic Ortodox din Chișinău](https://teologie.md/seminarul/) - Chișinău, Mitropolia Chișinăului și a întregii Moldove.
+- [Colegiul Ortodox „Mitropolitul Nicolae Colan”](https://comnc.ro) - Cluj-Napoca, Arhiepiscopia Vadului, Feleacului și Clujului.
+- [Seminarul Teologic Ortodox „Sfântul Cuvios Dionisie Exiguul”](https://stloc.org) - Constanța, Arhiepiscopia Tomisului.
+- [Seminarul Teologic Ortodox „Sfântul Grigorie Teologul”](https://seminarulortodoxcraiova.ro) - Craiova, Arhiepiscopia Craiovei.
+- [Seminarul Teologic Ortodox „Neagoe Vodă Basarab”](https://seminarcurteadearges.ro) - Curtea de Argeș, Arhiepiscopia Argeșului și Muscelului.
+- [Seminarul Teologic Liceal Ortodox „Sfântul Ioan Iacob”](https://seminaruldorohoi.ro) - Dorohoi, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Liceal „Sfânta Cuvioasă Muceniță Elisabeta”](https://eparhia-edinet.md/seminarul-teologic/) - Edineț, Eparhia de Edineț și Briceni.
+- [Liceul Teologic Ortodox „Sfântul Constantin Brâncoveanu”](https://www.liceulbrancoveanufagaras.ro) - Făgăraș, Arhiepiscopia Sibiului.
+- [Seminarul Teologic Ortodox „Sfântul Apostol Andrei”](https://www.seminarulsfandrei.ro) - Galați, Arhiepiscopia Dunării de Jos.
+- [Seminarul Teologic Ortodox „Teoctist Patriarhul”](https://episcopiagiurgiului.ro/invatamant-teologic/) - Giurgiu, Episcopia Giurgiului.
+- [Seminarul Teologic Ortodox „Sfântul Ioan Gură de Aur”](https://seminarulteologichusi.weebly.com) - Huși, Episcopia Hușilor.
+- [Seminarul Teologic Ortodox „Sfântul Vasile cel Mare”](https://seminariasi.ro) - Iași, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Ortodox „Veniamin Costachi”](https://site.semmnt.ro) - Mănăstirea Neamț, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Ortodox „Sfânta Ecaterina”](https://seminarprislop.ro) - Mănăstirea Prislop, Episcopia Devei și Hunedoarei.
+- [Liceul Ortodox „Episcop Roman Ciorogariu”](https://www.licortoradea.ro) - Oradea, Episcopia Oradiei.
+- [Liceul Teologic Ortodox „Sfinții Împărați Constantin și Elena”](https://liceulteologic-piatraneamt.ro) - Piatra Neamț, Arhiepiscopia Iașilor.
+- [Seminarul Teologic Ortodox „Sfântul Nicolae”](https://seminarulteologicvalcea.ro) - Râmnicu Vâlcea, Arhiepiscopia Râmnicului.
+- [Liceul Teologic „Episcop Melchisedec”](https://ltoem.wordpress.com) - Roman, Arhiepiscopia Romanului și Bacăului.
+- [Liceul Teologic Ortodox „Nicolae Steinhardt”](https://www.steinhardt.ro) - Satu Mare, Episcopia Maramureșului și Sătmarului.
+- [Seminarul Teologic Ortodox „Sfântul Ioan Gură de Aur”](https://seminarulteologicslobozia.ro) - Slobozia, Episcopia Sloboziei și Călărașilor.
+- [Seminarul Teologic Liceal Ortodox „Mitropolitul Dosoftei”](https://mitropolituldosoftei.ro) - Suceava, Arhiepiscopia Sucevei și Rădăuților.
+- [Seminarul Teologic Ortodox „Sfântul Ioan Gură de Aur”](https://seminarortodoxtargoviste.ro) - Târgoviște, Arhiepiscopia Târgoviștei.
+- [Liceul Teologic Târgu Jiu](https://liceul-teologic.ro) - Târgu Jiu, Arhiepiscopia Craiovei.
+- [Liceul Teologic Ortodox „Sfântul Antim Ivireanul”](https://liceulortodoxsfantulantim.ro) - Timișoara, Arhiepiscopia Timișoarei.
+- [Seminarul Teologic Ortodox „Sfântul Ioan Casian”](https://www.seminarulioancasian.ro) - Tulcea, Episcopia Tulcii.
+- [Liceul Ortodox „Sfântul Nicolae”](https://liceulortodoxzalau.ro) - Zalău, Episcopia Sălajului.
+
+### Facultăți de teologie
+
+- [Facultatea de Teologie Ortodoxă din Alba Iulia](https://fto.ro/nou/) - Universitatea „1 Decembrie 1918” din Alba Iulia.
+- [Facultatea de Teologie Ortodoxă „Ilarion V. Felea”](https://teologie.uav.ro) - Universitatea „Aurel Vlaicu” din Arad.
+- [Departamentul de Științe Socio-umane, Teologie, Arte](https://ssuta.utcluj.ro) - Centrul Universitar Nord din Baia Mare al Universității Tehnice din Cluj-Napoca.
+- [Facultatea de Teologie Ortodoxă „Justinian Patriarhul”](https://ftoub.unibuc.ro) - Universitatea din București.
+- [Extensia de la Chișinău](https://ftoub.unibuc.ro/extensia-la-chisinau/) - Masterat al facultății „Justinian Patriarhul”, organizat cu Universitatea de Stat din Moldova.
+- [Facultatea de Teologie Ortodoxă din Cluj-Napoca](https://ot.ubbcluj.ro) - Universitatea Babeș-Bolyai din Cluj-Napoca.
+- [Facultatea de Teologie din Constanța](https://teologie.univ-ovidius.ro) - Universitatea „Ovidius” din Constanța.
+- [Facultatea de Teologie Ortodoxă din Craiova](https://teologie.ucv.ro) - Universitatea din Craiova.
+- [Facultatea de Istorie, Filosofie și Teologie](https://www.fift.ugal.ro/index.php/ro/) - Universitatea „Dunărea de Jos” din Galați.
+- [Facultatea de Teologie Ortodoxă „Sfântul Dumitru Stăniloae”](https://www.teologie.uaic.ro) - Universitatea „Alexandru Ioan Cuza” din Iași.
+- [Facultatea de Teologie Ortodoxă „Episcop Dr. Vasile Coman”](https://teologie.uoradea.ro/ro/) - Universitatea din Oradea.
+- [Departamentul Teologie din Pitești](https://www.upit.ro/ro/academia-reorganizata/facultatea-de-teologie-litere-istorie-si-arte/departamentul-teologie2) - Centrul Universitar Pitești al Universității Naționale de Știință și Tehnologie Politehnica București.
+- [Facultatea de Teologie „Sfântul Andrei Șaguna”](https://teologie.ulbsibiu.ro) - Universitatea „Lucian Blaga” din Sibiu.
+- [Facultatea de Teologie Ortodoxă și Științele Educației](https://ftose.valahia.ro) - Universitatea „Valahia” din Târgoviște.
+- [Facultatea de Litere, Istorie, Filosofie și Teologie](https://lift.uvt.ro) - Universitatea de Vest din Timișoara.
 
 ## Aplicații și software
 
