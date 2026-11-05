@@ -1,7 +1,11 @@
 # Link checker settings: https://lychee.cli.rs
 
 max_retries = 3
+retry_wait_time = 5
 timeout = 30
+
+# Some church websites serve incomplete certificate chains. This check only looks for dead links.
+insecure = true
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 
 # Some church websites block automated requests (403) or rate limit them (429).
