@@ -29,6 +29,7 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
   - [Posturi TV](#posturi-tv)
   - [Canale video](#canale-video)
   - [Conferințe](#conferințe)
+  - [Documentare](#documentare)
 - [Iconografie și artă sacră](#iconografie-și-artă-sacră)
 - [Mănăstiri și pelerinaje](#mănăstiri-și-pelerinaje)
 - [Școli teologice](#școli-teologice)
@@ -79,6 +80,12 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Editura Doxologia](https://edituradoxologia.ro) - Editura Mitropoliei Moldovei și Bucovinei.
 - [Editura Sophia](https://www.sophia.ro) - Editură de carte teologică și patristică.
 - [Biblioteca SufletOrtodox](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/) - Arhivă gratuită cu peste 1.000 de cărți ortodoxe în PDF și DOC. Vezi [catalogul pe autori și teme](sufletortodox/README.md).
+- [Biblioteca digitală Stavropoleos](https://stavropoleos.ro/biblioteca-digitala/) - Peste 500 de PDF-uri cu partituri psaltice, cărți de cult și tipărituri vechi, adunate de Mănăstirea Stavropoleos.
+- [ÎnvățăturiOrtodoxe.ro](https://invataturiortodoxe.ro) - Cărți ortodoxe în PDF și EPUB, grupate pe teme, de la Sfinții Părinți la viețile sfinților.
+- [Resurse Ortodoxe](https://www.resurse-ortodoxe.ro/categoria_carti-ortodoxe-online/) - Cărți ortodoxe de citit online, cu secțiuni separate pentru PDF și EPUB.
+- [Biblioteca online e-religie](https://e-religie.ro/biblioteca-online/) - Biblia, acatiste și cărți de folos în PDF sau de citit online, pe platforma profesorilor de religie.
+- [Biblioteca Seminarului Teologic București](https://bibseminarbuc.ro/?page_id=735) - Pagina de cărți PDF a bibliotecii, cu linkuri spre arhivele digitale ale revistelor teologice românești.
+- [Revista Teologică](https://www.revistateologica.ro/arhiva/) - Arhiva revistei Mitropoliei Ardealului în PDF, cu numere din 1907 până azi.
 
 ## Articole și bloguri
 
@@ -117,6 +124,11 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 ### Conferințe
 
 - [Arhiva video SufletOrtodox](https://github.com/OrthodoxProject/awesome-orthodoxy/blob/main/lists/ro/sufletortodox/video.md) - Conferințe, slujbe și documentare din arhiva SufletOrtodox.ro, grupate pe vorbitori și teme.
+- [Resurse Ortodoxe](https://www.resurse-ortodoxe.ro/categoria_video/) - Conferințe ale părinților duhovnicești, slujbe, documentare și emisiuni TV arhivate.
+
+### Documentare
+
+- [Trinitas Film](https://www.trinitas.film) - Platforma de streaming a Patriarhiei Române, cu peste 150 de documentare, o parte gratuite și restul cu abonament.
 
 ## Iconografie și artă sacră
 
