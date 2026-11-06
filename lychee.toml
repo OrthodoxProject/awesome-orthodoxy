@@ -11,6 +11,11 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # Some church websites block automated requests (403) or rate limit them (429).
 accept = ["200..=299", "403", "429"]
 
-# Links to the language lists only exist on main after a pull request is merged.
+# Links to the language lists and their pages only exist on main after a pull request is merged.
 # npm test checks that these folders exist.
-exclude = ["^https://github\\.com/OrthodoxProject/awesome-orthodoxy/tree/main/lists/"]
+# The catalog in lists/ro/sufletortodox links to about 1,600 files on one small site.
+# Checking them all at once would flood that site, so only the archive's main page is checked.
+exclude = [
+  "^https://github\\.com/OrthodoxProject/awesome-orthodoxy/(tree|blob)/main/lists/",
+  "^https://www\\.sufletortodox\\.ro/arhiva/",
+]

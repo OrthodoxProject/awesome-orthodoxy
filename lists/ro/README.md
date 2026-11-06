@@ -28,6 +28,7 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Video](#video)
   - [Posturi TV](#posturi-tv)
   - [Canale video](#canale-video)
+  - [Conferințe](#conferințe)
 - [Iconografie și artă sacră](#iconografie-și-artă-sacră)
 - [Mănăstiri și pelerinaje](#mănăstiri-și-pelerinaje)
 - [Școli teologice](#școli-teologice)
@@ -77,6 +78,7 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Editura Basilica](https://editurabasilica.ro) - Editura Patriarhiei Române.
 - [Editura Doxologia](https://edituradoxologia.ro) - Editura Mitropoliei Moldovei și Bucovinei.
 - [Editura Sophia](https://www.sophia.ro) - Editură de carte teologică și patristică.
+- [Biblioteca SufletOrtodox](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/) - Arhivă gratuită cu peste 1.000 de cărți ortodoxe în PDF și DOC. Vezi [catalogul pe autori și teme](sufletortodox/README.md).
 
 ## Articole și bloguri
 
@@ -111,6 +113,10 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Basilica](https://www.youtube.com/channel/UCh6MZX0N9faHq70F4kBDBeA) - Canalul agenției de știri a Patriarhiei Române.
 - [Doxologia](https://www.youtube.com/c/doxologia) - Canalul portalului Doxologia, cu cateheze și conferințe.
 - [Mănăstirea Putna](https://www.youtube.com/@manastireaputna) - Canalul oficial al Mănăstirii Putna.
+
+### Conferințe
+
+- [Arhiva video SufletOrtodox](https://github.com/OrthodoxProject/awesome-orthodoxy/blob/main/lists/ro/sufletortodox/video.md) - Conferințe, slujbe și documentare din arhiva SufletOrtodox.ro, grupate pe vorbitori și teme.
 
 ## Iconografie și artă sacră
 
