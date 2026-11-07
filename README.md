@@ -8,6 +8,8 @@
 
 The [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church) is a communion of self-governing churches that share the faith, worship, and tradition of the early Christian Church. This list covers English-language and international resources. Lists in other languages follow the same structure.
 
+The lists are also published as a [website with search](https://orthodoxproject.github.io/awesome-orthodoxy/) and as a [wiki](https://github.com/OrthodoxProject/awesome-orthodoxy/wiki).
+
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
 ## Contents

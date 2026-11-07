@@ -1,7 +1,14 @@
 import DefaultTheme from 'vitepress/theme';
-import {inBrowser} from 'vitepress';
-import {nextTick, onMounted} from 'vue';
+import {inBrowser, useData} from 'vitepress';
+import {nextTick, onMounted, watch} from 'vue';
 import './custom.css';
+
+// The language the visitor reads, so the home page opens it next time (see languageRedirect in config.mjs).
+function rememberLanguage(language) {
+	try {
+		localStorage.setItem('awesome-orthodoxy-language', language);
+	} catch {}
+}
 
 // The catalogs keep their groups in closed <details>. When a link or a search result
 // points to a group (or to a heading followed by a group), open it.
@@ -50,6 +57,11 @@ export default {
 		window.addEventListener('hashchange', openLinkedGroup);
 	},
 	setup() {
-		onMounted(openLinkedGroup);
+		const {lang} = useData();
+
+		onMounted(() => {
+			openLinkedGroup();
+			watch(lang, rememberLanguage, {immediate: true});
+		});
 	},
 };
