@@ -35,7 +35,8 @@ function findMarkdownFiles(dir = '') {
 	});
 }
 
-export const pages = findMarkdownFiles().sort();
+// Natural order, so video.md comes before video-2.md.
+export const pages = findMarkdownFiles().sort((a, b) => a.replace(/\.md$/, '').localeCompare(b.replace(/\.md$/, ''), 'en', {numeric: true}));
 const pageSet = new Set(pages);
 
 export function languageOf(file) {
@@ -141,8 +142,21 @@ function sectionItems(file) {
 	return items;
 }
 
+// "e-religie: cărți pe autori" in the group "e-religie" becomes "Cărți pe autori".
+function shortTitle(title, groupTitle, language) {
+	const prefix = `${groupTitle}: `;
+
+	if (!groupTitle || !title.startsWith(prefix) || title.length === prefix.length) {
+		return title;
+	}
+
+	const rest = title.slice(prefix.length);
+	return rest[0].toLocaleUpperCase(language.code) + rest.slice(1);
+}
+
 // Pages and subfolders of a folder: a subfolder becomes a group, linked to its README.md.
-function folderItems(language, folder) {
+// The groups of the language folder are open; deeper groups are closed until one of their pages is open.
+function folderItems(language, folder, groupTitle) {
 	const inFolder = pages.filter(file => languageOf(file) === language && path.posix.dirname(file) === folder);
 	const subfolders = [...new Set(pages
 		.filter(file => languageOf(file) === language && file.startsWith(folder === '.' ? '' : `${folder}/`))
@@ -154,19 +168,21 @@ function folderItems(language, folder) {
 
 	const groups = subfolders.map(subfolder => {
 		const readme = `${subfolder}/README.md`;
+		const text = pageSet.has(readme) ? pageTitle(readme) : path.posix.basename(subfolder);
 		return {
-			text: pageSet.has(readme) ? pageTitle(readme) : path.posix.basename(subfolder),
+			text: shortTitle(text, groupTitle, language),
 			link: pageSet.has(readme) ? routeOf(readme) : undefined,
-			collapsed: false,
-			items: folderItems(language, subfolder),
+			collapsed: folder !== language.folder,
+			items: folderItems(language, subfolder, text),
 		};
 	});
 
 	const files = inFolder
 		.filter(file => !/(^|\/)(README|contributing)\.md$/.test(file))
-		.map(file => ({text: pageTitle(file), link: routeOf(file)}));
+		.map(file => ({text: shortTitle(pageTitle(file), groupTitle, language), link: routeOf(file)}));
 
-	return [...groups, ...files];
+	// As in the README of a folder: its own pages first, then its subfolders.
+	return [...files, ...groups];
 }
 
 // Sidebar of a language: its list with all sections, the other pages of its folder, and the contribution guide.
