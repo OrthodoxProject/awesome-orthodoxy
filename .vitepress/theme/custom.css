@@ -1,0 +1,52 @@
+/* Colors of the logo: burgundy, and gold in the dark theme. */
+:root {
+  --vp-c-brand-1: #7b1e2b;
+  --vp-c-brand-2: #962637;
+  --vp-c-brand-3: #7b1e2b;
+  --vp-c-brand-soft: rgba(123, 30, 43, 0.12);
+}
+
+.dark {
+  --vp-c-brand-1: #e2bd55;
+  --vp-c-brand-2: #d4af37;
+  --vp-c-brand-3: #8a6d1f;
+  --vp-c-brand-soft: rgba(212, 175, 55, 0.16);
+}
+
+/* Groups of the catalogs (<details>), for example the books of one author. */
+.vp-doc details {
+  scroll-margin-top: calc(var(--vp-nav-height) + 48px);
+  margin: 8px 0;
+  padding: 0 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.vp-doc details > summary {
+  margin: 0;
+  padding: 10px 0;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.vp-doc details[open] > summary {
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc details > ul {
+  margin: 12px 0;
+}
+
+/* The name of a group, repeated as a heading for search and links. The summary already shows it. */
+.vp-doc details > .summary-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
