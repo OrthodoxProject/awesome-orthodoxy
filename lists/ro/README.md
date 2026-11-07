@@ -94,6 +94,8 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [CrestinOrtodox.ro](https://www.crestinortodox.ro) - Portal cu articole, rugăciuni, calendar și informații despre mănăstiri.
 - [Pemptousia](https://pemptousia.ro) - Ediția în limba română a revistei Pemptousia, susținută de prietenii Mănăstirii Vatoped.
 - [Ortodoxia Tinerilor](https://ortodoxiatinerilor.ro) - Portal pentru tineri, cu articole despre credință și viața creștină.
+- [O Chilie Athonită](https://www.chilieathonita.ro) - Articole, conferințe și podcast de la Chilia „Intrarea în biserică a Maicii Domnului” din Schitul Lacu, Muntele Athos.
+- [Mărturie Athonită](https://marturieathonita.ro) - Site-ul Chiliei „Buna Vestire” din Schitul Lacu, Muntele Athos, cu vieți de sfinți, pateric athonit, înregistrări audio și traduceri.
 
 ## Audio
 
