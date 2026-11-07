@@ -1,8 +1,8 @@
-# Cărți pe autori
+# SufletOrtodox: cărți pe autori
 
-[Biblioteca SufletOrtodox](README.md) · **Cărți pe autori** · [Cărți pe teme](carti-teme.md) · [Video](video.md)
+[SufletOrtodox](README.md) · **Cărți pe autori** · [Cărți pe teme](carti-teme.md) · [Video](video.md)
 
-Cărțile cu autor cunoscut din [arhiva SufletOrtodox.ro](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/), în ordinea alfabetică a autorilor. Apasă pe un nume ca să vezi cărțile. Colecțiile (Filocalia, Părinți și Scriitori Bisericești, canoane, Viețile Sfinților) și cărțile fără autor sunt în pagina [Cărți pe teme](carti-teme.md).
+Cărțile cu autor cunoscut din [SufletOrtodox](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/), în ordinea alfabetică a autorilor. Apasă pe un nume ca să vezi cărțile.
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [V](#v) · [Z](#z)
 
@@ -620,7 +620,7 @@ Cărțile cu autor cunoscut din [arhiva SufletOrtodox.ro](https://www.sufletorto
 <details>
 <summary>Efrem Athonitul (2)</summary>
 
-- Despre Credinta si mantuire – [DOC, 281 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Efrem%20Athonitul%20-%20Despre%20Credinta%20si%20mantuire.doc) · [PDF, 345 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Efrem%20Athonitul%20-%20Despre%20credinta%20si%20mantuire.pdf)
+- Despre Credinta si mantuire – [PDF, 345 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Efrem%20Athonitul%20-%20Despre%20credinta%20si%20mantuire.pdf) · [DOC, 281 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Efrem%20Athonitul%20-%20Despre%20Credinta%20si%20mantuire.doc)
 - Despre Ortodoxie – [PDF, 50 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Efrem%20Athonitul%20-%20Despre%20Ortodoxie.pdf)
 
 </details>
@@ -1746,7 +1746,7 @@ Cărțile cu autor cunoscut din [arhiva SufletOrtodox.ro](https://www.sufletorto
 <details>
 <summary>Nikolai Afanasiev (1)</summary>
 
-- Canoane si constiinta canonica – [DOC, 224 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Nikolai%20Afanasiev%20-%20Canoane%20si%20constiinta%20canonica.doc) · [PDF, 247 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Nikolai%20N.%20Afanasiev%20-%20Canoane%20si%20constiinta%20canonica.pdf)
+- Canoane si constiinta canonica – [PDF, 247 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Nikolai%20N.%20Afanasiev%20-%20Canoane%20si%20constiinta%20canonica.pdf) · [DOC, 224 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Nikolai%20Afanasiev%20-%20Canoane%20si%20constiinta%20canonica.doc)
 
 </details>
 
@@ -1919,7 +1919,7 @@ Cărțile cu autor cunoscut din [arhiva SufletOrtodox.ro](https://www.sufletorto
 <details>
 <summary>Petru Suciu (1)</summary>
 
-- Metode Psihoterapeutice in Pateric – [DOC, 575 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Petru%20Suciu%20-%20Metode%20Psihoterapeutice%20in%20Pateric.doc) · [PDF, 674 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Petru%20Suciu%20-%20Metode%20psihoterapeutice%20in%20Pateric.pdf)
+- Metode Psihoterapeutice in Pateric – [PDF, 674 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Petru%20Suciu%20-%20Metode%20psihoterapeutice%20in%20Pateric.pdf) · [DOC, 575 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Petru%20Suciu%20-%20Metode%20Psihoterapeutice%20in%20Pateric.doc)
 
 </details>
 
@@ -2003,7 +2003,7 @@ Cărțile cu autor cunoscut din [arhiva SufletOrtodox.ro](https://www.sufletorto
 <details>
 <summary>Serafim de Sarov (2)</summary>
 
-- Despre dobandirea Duhului Sfant – [DOC, 78 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Serafim%20de%20Sarov%20-%20Despre%20dobandirea%20Duhului%20Sfant.doc) · [PDF, 792 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Serafim%20de%20Sarov%20-%20Despre%20dobandirea%20Duhului%20Sfant.pdf)
+- Despre dobandirea Duhului Sfant – [PDF, 792 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Serafim%20de%20Sarov%20-%20Despre%20dobandirea%20Duhului%20Sfant.pdf) · [DOC, 78 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Serafim%20de%20Sarov%20-%20Despre%20dobandirea%20Duhului%20Sfant.doc)
 - Serafim de Sarov – [DOC, 90 KB](https://www.sufletortodox.ro/arhiva/carti-documente/Serafim%20de%20Sarov.doc)
 
 </details>
