@@ -39,6 +39,7 @@ Use this format:
 3. Add the new list to the `Lists by Language` section of [README.md](README.md).
 4. Start from an existing list: title, badge, logo, description, language bar, and `## Contents` (always in English).
 5. Update the language bar in every list. `npm test` prints the exact line each list needs.
+6. Optionally, translate the buttons and labels of the website in [.vitepress/i18n.mjs](.vitepress/i18n.mjs). Without them, the website shows them in English.
 
 ## Check Your Changes
 
@@ -58,3 +59,19 @@ npm test
 - every list has the same language bar, and the main list links to every language in `Lists by Language`.
 
 On pull requests, CI also runs the official `awesome-lint` on `README.md` and checks the links the pull request adds with [lychee](https://lychee.cli.rs). The links of all lists are checked every week.
+
+## Website
+
+The lists are also published as a website with search, built with [VitePress](https://vitepress.dev) from the Markdown files of this repository:
+
+- every language in `lists/structure.json` is a language of the website, with its own menu and search;
+- every Markdown file is a page, and `README.md` is the first page of its folder;
+- the sidebar lists the sections of each list and the other pages of its folder.
+
+So the website needs no changes when you add a resource, a page, or a language. To preview it while you edit the lists:
+
+```sh
+npm run docs:dev
+```
+
+Each merge into `main` publishes the website to GitHub Pages. On pull requests, CI checks that it still builds and that the links between pages work.
