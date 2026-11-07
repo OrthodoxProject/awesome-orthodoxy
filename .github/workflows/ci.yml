@@ -30,7 +30,8 @@ jobs:
         env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-  # Pull requests check only the links they add; the weekly (or manual) run checks every link.
+  # Pull requests check only the links they add to the lists; the weekly (or manual) run checks every list link.
+  # The library catalogs in lists/*/biblioteca hold thousands of file links and are checked when they are generated.
   # Pushes to main skip this job, since their links were already checked in the pull request.
   links:
     if: github.event_name != 'push'
@@ -46,7 +47,7 @@ jobs:
           BASE: ${{ github.base_ref }}
         run: |
           if [ "$EVENT" = "pull_request" ]; then
-            git diff -U0 "origin/$BASE...HEAD" -- '*.md' | grep '^+[^+]' | grep -oE 'https?://[^ )>"]+' | sort -u > added-links.txt || true
+            git diff -U0 "origin/$BASE...HEAD" -- README.md ':(glob)lists/*/README.md' | grep '^+[^+]' | grep -oE 'https?://[^ )>"]+' | sort -u > added-links.txt || true
             if [ -s added-links.txt ]; then files="added-links.txt"; else files=""; fi
           else
             files="README.md lists/*/README.md"
