@@ -76,3 +76,5 @@ npm run docs:dev
 ```
 
 Each merge into `main` publishes the website to GitHub Pages. On pull requests, CI checks that it still builds and that the links between pages work.
+
+Each merge into `main` also copies the Markdown files to the [wiki](https://github.com/OrthodoxProject/awesome-orthodoxy/wiki), with [scripts/wiki.mjs](scripts/wiki.mjs). Do not edit the wiki: its pages are replaced. Edit the files of the repository instead.

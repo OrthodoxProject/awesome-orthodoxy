@@ -207,7 +207,8 @@ export function contributingPage(language) {
 }
 
 // Where a link written in the repository points to: a page of the site, or another file of the repository.
-function resolveLink(url, fromFile) {
+// The wiki (scripts/wiki.mjs) uses it too.
+export function resolveLink(url, fromFile) {
 	let target;
 	let hash;
 
