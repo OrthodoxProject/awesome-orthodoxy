@@ -66,7 +66,8 @@ The lists are also published as a website with search, built with [VitePress](ht
 
 - every language in `lists/structure.json` is a language of the website, with its own menu and search;
 - every Markdown file is a page, and `README.md` is the first page of its folder;
-- the sidebar lists the sections of each list and the other pages of its folder.
+- the sidebar lists the sections of each list and the other pages of its folder;
+- the home page opens the list in the language of the visitor's browser, or the last language they read. Without a list in that language, it stays on the English list.
 
 So the website needs no changes when you add a resource, a page, or a language. To preview it while you edit the lists:
 
