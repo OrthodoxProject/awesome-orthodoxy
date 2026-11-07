@@ -104,6 +104,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 - [Public Orthodoxy](https://publicorthodoxy.org) - Essays on Orthodoxy and public life from the Orthodox Christian Studies Center of Fordham University.
 - [Pemptousia](https://pemptousia.com) - Online journal on theology and Orthodox culture, linked to Vatopedi Monastery on Mount Athos.
+- [An Athonite Cell](https://www.chilieathonita.ro/en/) - Talks and answers of the Romanian monks of a cell in Lacu Skete on Mount Athos, translated into English.
 
 ## Audio
 
