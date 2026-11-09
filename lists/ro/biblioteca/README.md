@@ -19,6 +19,7 @@ Fiecare sursă are și paginile ei separate:
 - [e-religie](e-religie/README.md) - Biblioteca și videoteca platformei profesorilor de religie: 84 de cărți cu autor, 25 de titluri la „cărți pe teme”, 358 de filme.
 - [Revista Teologică](revista-teologica/README.md) - Arhiva revistei Mitropoliei Ardealului, din 1907 până azi: 107 titluri la „numere”.
 - [O Chilie Athonită](chilie-athonita/README.md) - Filmele recomandate pe site-ul chiliei athonite din Schitul Lacu, cu linkuri spre YouTube și spre paginile cu subtitrare în limba română: 143 de filme.
+- [Lumea Aventurilor](lumea-aventurilor/README.md) - Filmele studioului despre Muntele Athos, în limba română sau cu subtitrare în română, grupate pe mănăstiri și schituri: 16 filme.
 
 ## Cărți pe autori
 
@@ -49,11 +50,11 @@ Fiecare sursă are și paginile ei separate:
 
 ## Video
 
-6.415 filme: conferințe, slujbe, documentare, filme artistice și emisiuni.
+6.431 de filme: conferințe, slujbe, documentare, filme artistice și emisiuni.
 
 - [Slujbe, acatiste și cântări](video.md#slujbe-acatiste-și-cântări) (437)
 - [Conferințe și interviuri](video.md#conferințe-și-interviuri) (1568)
-- [Documentare](video-2.md#documentare) (310)
+- [Documentare](video-2.md#documentare) (326)
 - [Filme artistice](video-2.md#filme-artistice) (123)
 - [Emisiuni TV](video-2.md#emisiuni-tv) (3616)
 - [Pentru ora de religie](video-5.md#pentru-ora-de-religie) (358)

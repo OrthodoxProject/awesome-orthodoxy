@@ -142,7 +142,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ### Documentaries
 
-- [History and Sanctuaries of Mount Athos](https://www.youtube.com/playlist?list=PLTtHUbwXO6_h5v26vzg2Dr2teK9umi-rR) - Series by the World of Adventures studio, translated from Russian. Each film presents a monastery or skete of Mount Athos, with its history, architecture, and holy relics.
+- [History and Sanctuaries of Mount Athos](https://www.youtube.com/playlist?list=PLTtHUbwXO6_h5v26vzg2Dr2teK9umi-rR) - Series by the World of Adventures studio, translated from Russian. Each film presents a monastery or skete of Mount Athos, with its history, architecture, and holy relics. See the [catalog](documentaries.md), with a section for each monastery.
 
 ## Iconography and Sacred Art
 
