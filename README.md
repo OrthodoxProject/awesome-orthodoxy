@@ -33,6 +33,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 - [Video](#video)
   - [Video Channels](#video-channels)
   - [Conferences and Talks](#conferences-and-talks)
+  - [Documentaries](#documentaries)
 - [Iconography and Sacred Art](#iconography-and-sacred-art)
 - [Monasteries and Pilgrimage](#monasteries-and-pilgrimage)
 - [Theological Schools](#theological-schools)
@@ -138,6 +139,10 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 ### Conferences and Talks
 
 - [St Vladimir's Seminary](https://www.youtube.com/user/StVladimirsSeminary) - Lectures, conferences, and services from the seminary.
+
+### Documentaries
+
+- [History and Sanctuaries of Mount Athos](https://www.youtube.com/playlist?list=PLTtHUbwXO6_h5v26vzg2Dr2teK9umi-rR) - Series by the World of Adventures studio, translated from Russian. Each film presents a monastery or skete of Mount Athos, with its history, architecture, and holy relics.
 
 ## Iconography and Sacred Art
 

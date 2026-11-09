@@ -133,6 +133,7 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 
 - [Trinitas Film](https://www.trinitas.film) - Platforma de streaming a Patriarhiei Române, cu peste 150 de documentare, o parte gratuite și restul cu abonament.
 - [Filme pe O Chilie Athonită](https://www.chilieathonita.ro/category/filme/) - Categoria de filme a site-ului: filme artistice, seriale, scurtmetraje și documentare recomandate, multe cu subtitrare în limba română. Vezi [catalogul](biblioteca/chilie-athonita/README.md).
+- [Istoria și sfințeniile Athosului](https://www.youtube.com/playlist?list=PLTtHUbwXO6_if6YuhgtwN3HnOD0J6EYoM) - Serie de filme a studioului „Lumea Aventurilor”, în limba română. Fiecare film prezintă o mănăstire sau un schit din Muntele Athos: istoria, arhitectura și sfintele odoare.
 
 ## Iconografie și artă sacră
 
