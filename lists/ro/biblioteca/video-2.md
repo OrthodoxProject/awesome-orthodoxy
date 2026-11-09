@@ -737,7 +737,7 @@ Paginile listei: [1](video.md) · **2** · [3](video-3.md) · [4](video-4.md) ·
 ## Documentare
 
 <details>
-<summary>Alte documentare (215)</summary>
+<summary>Alte documentare (212)</summary>
 
 - 7 Cuvinte – docudramă despre p. mărturisitor Gheorghe Calciu – *O Chilie Athonită*: [online](https://www.chilieathonita.ro/2026/04/03/7-cuvinte-docudrama-despre-p-marturisitor-gheorghe-calciu/)
 - Acatistul Sfintei Cruci audio 14 septembrie – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Acatistul%20Sfintei%20Cruci%20audio%2014%20septembrie.mp4)
@@ -753,7 +753,6 @@ Paginile listei: [1](video.md) · **2** · [3](video-3.md) · [4](video-4.md) ·
 - Arhipelagul sfânt – *O Chilie Athonită*: [online](https://www.chilieathonita.ro/2025/01/25/arhipelagul-sfant-documentar-artistic/)
 - Arsenie Boca - Omul lui Dumnezeu – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Arsenie%20Boca%20-%20Omul%20lui%20Dumnezeu.mp4)
 - Asezamintele Udricani – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Asezamintele%20Udricani.mp4)
-- Athonite 1980 – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Athonite%201980.mp4)
 - Binecuvantata fii inchisoare – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Binecuvantata%20fii%20inchisoare.mp4)
 - Biserica Bucur Ciobanul (Bucuresti) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Biserica%20Bucur%20Ciobanul%20%28Bucuresti%29.mp4)
 - Biserica Coltea (documentar Trinitas TV 2012) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Biserica%20Coltea%20%28documentar%20Trinitas%20TV%202012%29.mp4)
@@ -768,7 +767,6 @@ Paginile listei: [1](video.md) · **2** · [3](video-3.md) · [4](video-4.md) ·
 - Biserica Sfantul Spiridon Vechi (Bucuresti) (Documentar Trinitas TV 2012) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Biserica%20Sfantul%20Spiridon%20Vechi%20%28Bucuresti%29%20%28Documentar%20Trinitas%20TV%202012%29.mp4)
 - Biserica Zlatari (Bucuresti) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Biserica%20Zlatari%20%28Bucuresti%29.mp4)
 - Bucuria de a fi crestini - Episcopia Devei si Hunedoarei – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Bucuria%20de%20a%20fi%20crestini%20-%20Episcopia%20Devei%20si%20Hunedoarei.mp4)
-- Bucurie în Dar de la Sfântul Munte Athos – *O Chilie Athonită*: [YouTube](https://www.youtube.com/watch?v=gK2ZrY8MmqM) · [online](https://www.chilieathonita.ro/2024/12/14/bucurie-in-dar-de-la-sfantul-munte-athos-documentar-artistic/)
 - Camara Ta, Mantuitorul meu – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Camara%20Ta,%20Mantuitorul%20meu.mp4)
 - Catedrala Mantuirii Neamului - Basilica Sf Apostol Andrei (Documentar Trinitas TV) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Catedrala%20Mantuirii%20Neamului%20-%20Basilica%20Sf%20Apostol%20Andrei%20%28Documentar%20Trinitas%20TV%29%20.mp4)
 - Catedrala Mitropolitana din Iasi – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Catedrala%20Mitropolitana%20din%20Iasi.mp4)
@@ -946,7 +944,6 @@ Paginile listei: [1](video.md) · **2** · [3](video-3.md) · [4](video-4.md) ·
 - Underground Caves at Monastery of Kievo-Pescherska Lavra - Kiev – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Underground%20Caves%20at%20Monastery%20of%20Kievo-Pescherska%20Lavra%20-%20Kiev.mp4)
 - Usile pocaintei – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Usile%20pocaintei.mp4)
 - Valeriu Gafencu - Viata si chinurile inchisorilor comuniste – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Valeriu%20Gafencu%20-%20Viata%20si%20chinurile%20inchisorilor%20comuniste.mp4)
-- Vatopedi - Lumina neinserarii – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Vatopedi%20-%20Lumina%20neinserarii.mp4)
 - Venirea Sfintei Lumini la Ierusalim la TRINITAS TV (2015 - fragment extins al transmisiunii LIVE) – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Venirea%20Sfintei%20Lumini%20la%20Ierusalim%20la%20TRINITAS%20TV%20%282015%20-%20fragment%20extins%20al%20transmisiunii%20LIVE%29.mp4)
 - Viata Sfantului Ioan Iacob Hozevitul – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/RO/2/l1_Viata%20Sfantului%20Ioan%20Iacob%20Hozevitul_RO.mp4)
 - Viata Sfantului Luca al Crimeei – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Viata%20Sfantului%20Luca%20al%20Crimeei.mp4)
@@ -1092,6 +1089,31 @@ Paginile listei: [1](video.md) · **2** · [3](video-3.md) · [4](video-4.md) ·
 - Mai presus de moarte, în iubire (Ioan Alexandru) – *SufletOrtodox*: [FLV, 366 MB](https://www.sufletortodox.ro/arhiva/avortul-contraceptia-fertilizarea-in-vitro-etc-si-uciderea-copiiilor-nenascuti/filme-documentare-1-despre-avort/Rom-Mai-presus-de-moarte-in-Iubire-Ioan-Alexandru.flv) · [MPEG, 555 MB](https://www.sufletortodox.ro/arhiva/pro-vita-pentru-viata-pro-life/Documentare%20si%20conferinte%20romanesti/Filme%20Silviu%20Despa/Mai%20presus%20de%20moarte%2C%20in%20Iubire.mpeg)
 - Nimeni sa nu regrete – *SufletOrtodox*: [MPEG, 440 MB](https://www.sufletortodox.ro/arhiva/pro-vita-pentru-viata-pro-life/Documentare%20si%20conferinte%20romanesti/Filme%20Silviu%20Despa/Nimeni%20sa%20nu%20regrete.mpeg)
 - Suntem toti copii – *SufletOrtodox*: [MPEG, 398 MB](https://www.sufletortodox.ro/arhiva/pro-vita-pentru-viata-pro-life/Documentare%20si%20conferinte%20romanesti/Filme%20Silviu%20Despa/Suntem%20toti%20copii.mpeg)
+
+</details>
+
+<details>
+<summary>Muntele Athos (19)</summary>
+
+- Athonite 1980 – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Athonite%201980.mp4)
+- Bucurie în Dar de la Sfântul Munte Athos – *O Chilie Athonită*: [YouTube](https://www.youtube.com/watch?v=gK2ZrY8MmqM) · [online](https://www.chilieathonita.ro/2024/12/14/bucurie-in-dar-de-la-sfantul-munte-athos-documentar-artistic/)
+- Istoria și sfințeniile Athosului: Mănăstirea Caracalu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=y1RNU05wWNE)
+- Istoria și sfințeniile Athosului: Mănăstirea Constamonitu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=N_7EVSR5fsc)
+- Istoria și sfințeniile Athosului: Mănăstirea Cutlumuș – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=Ta0l8R1O5YQ)
+- Istoria și sfințeniile Athosului: Mănăstirea Grigoriu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=D9bmusK7S70)
+- Istoria și sfințeniile Athosului: Mănăstirea Hilandar – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=6eTzO3wlm10)
+- Istoria și sfințeniile Athosului: Mănăstirea Pantocrator – *Lumea Aventurilor*: [YouTube, în rusă, cu subtitrare în română](https://www.youtube.com/watch?v=iyq9sdIB5XM)
+- Istoria și sfințeniile Athosului: Mănăstirea Vatopedu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=Ovuhc8j2KOA)
+- Istoria și sfințeniile Athosului: Mănăstirea Xenofont – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=ilMlF3Ly-gM)
+- Istoria și sfințeniile Athosului: Mănăstirea Zografu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=eqZ4sDyRqeE)
+- Istoria și sfințeniile Athosului: Schitul românesc Prodromu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=Zui_UnXM2sI)
+- Istoria și sfințeniile Athosului: Schitul Sfânta Ana – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=BeFEOchEW4Q)
+- Istoria și sfințeniile Athosului: Schitul Sfântul Andrei – *Lumea Aventurilor*: [YouTube, în rusă, cu subtitrare în română](https://www.youtube.com/watch?v=Mrc7DZ_lhGU)
+- Istoria și sfințeniile Athosului: Schitul Sfântul Ilie – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=rDtVZA29vJE)
+- Istoria și sfințeniile Athosului: Schitul Xilurgu – *Lumea Aventurilor*: [YouTube](https://www.youtube.com/watch?v=15K8sdepb7o)
+- Închinat amintirii starețului athonit Ambrozie, egumenul Mănăstirii Zografu – *Lumea Aventurilor*: [YouTube, în rusă, cu subtitrare în română](https://www.youtube.com/watch?v=aqL9Kq58vdo)
+- Închinat amintirii starețului athonit Grigorie, egumenul Mănăstirii Dohiariu – *Lumea Aventurilor*: [YouTube, în rusă, cu subtitrare în română](https://www.youtube.com/watch?v=wt-rwddTE5w)
+- Vatopedi - Lumina neinserarii – *Resurse Ortodoxe*: [MP4](https://resurse.go.ro/video/Documentare/Mixt/Vatopedi%20-%20Lumina%20neinserarii.mp4)
 
 </details>
 
