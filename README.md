@@ -8,6 +8,8 @@
 
 The [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church) is a communion of self-governing churches that share the faith, worship, and tradition of the early Christian Church. This list covers English-language and international resources. Lists in other languages follow the same structure.
 
+The lists are also published as a [website with search](https://orthodoxproject.github.io/awesome-orthodoxy/) and as a [wiki](https://github.com/OrthodoxProject/awesome-orthodoxy/wiki).
+
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
@@ -31,6 +33,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 - [Video](#video)
   - [Video Channels](#video-channels)
   - [Conferences and Talks](#conferences-and-talks)
+  - [Documentaries](#documentaries)
 - [Iconography and Sacred Art](#iconography-and-sacred-art)
 - [Monasteries and Pilgrimage](#monasteries-and-pilgrimage)
 - [Theological Schools](#theological-schools)
@@ -102,6 +105,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 - [Public Orthodoxy](https://publicorthodoxy.org) - Essays on Orthodoxy and public life from the Orthodox Christian Studies Center of Fordham University.
 - [Pemptousia](https://pemptousia.com) - Online journal on theology and Orthodox culture, linked to Vatopedi Monastery on Mount Athos.
+- [An Athonite Cell](https://www.chilieathonita.ro/en/) - Talks and answers of the Romanian monks of a cell in Lacu Skete on Mount Athos, translated into English.
 
 ## Audio
 
@@ -135,6 +139,10 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 ### Conferences and Talks
 
 - [St Vladimir's Seminary](https://www.youtube.com/user/StVladimirsSeminary) - Lectures, conferences, and services from the seminary.
+
+### Documentaries
+
+- [History and Sanctuaries of Mount Athos](https://www.youtube.com/playlist?list=PLTtHUbwXO6_h5v26vzg2Dr2teK9umi-rR) - Series by the World of Adventures studio, translated from Russian. Each film presents a monastery or skete of Mount Athos, with its history, architecture, and holy relics. See the [catalog](documentaries.md), with a section for each monastery.
 
 ## Iconography and Sacred Art
 
