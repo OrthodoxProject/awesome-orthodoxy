@@ -46,6 +46,24 @@ function localeTheme(language) {
 	};
 }
 
+// Opens the list in the visitor's language. On the home page, before it is shown, the script goes to the list
+// of the language the visitor last read (remembered by the theme) or, on a first visit, of the first browser
+// language that has a list. Without one, the English list stays open.
+const mainLanguage = languages.find(language => language.isMain).code;
+const otherLanguages = languages.filter(language => !language.isMain).map(language => language.code);
+const languageRedirect = `(() => {
+	const base = ${JSON.stringify(base)};
+	const path = location.pathname.replace(/index\\.html$/, '');
+	if (path !== base && path + '/' !== base) return;
+	const lists = ${JSON.stringify(otherLanguages)};
+	let language = null;
+	try { language = localStorage.getItem('awesome-orthodoxy-language'); } catch {}
+	language ??= (navigator.languages ?? [navigator.language])
+		.map(tag => tag.toLowerCase().split('-')[0])
+		.find(code => code === ${JSON.stringify(mainLanguage)} || lists.includes(code));
+	if (lists.includes(language)) location.replace(base + language + '/' + location.hash);
+})();`;
+
 const locales = Object.fromEntries(languages.map(language => [language.isMain ? 'root' : language.code, {
 	label: `${language.flag} ${language.name}`,
 	lang: language.code,
@@ -67,6 +85,7 @@ export default defineConfig({
 	head: [
 		['link', {rel: 'icon', type: 'image/svg+xml', href: logo}],
 		['meta', {name: 'theme-color', content: '#7b1e2b'}],
+		['script', {}, languageRedirect],
 	],
 	markdown: {
 		// List entries may contain braces, which must not be read as attributes.
