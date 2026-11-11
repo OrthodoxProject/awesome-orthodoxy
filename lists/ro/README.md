@@ -79,13 +79,14 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [Editura Basilica](https://editurabasilica.ro) - Editura Patriarhiei Române.
 - [Editura Doxologia](https://edituradoxologia.ro) - Editura Mitropoliei Moldovei și Bucovinei.
 - [Editura Sophia](https://www.sophia.ro) - Editură de carte teologică și patristică.
-- [Biblioteca SufletOrtodox](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/) - Arhivă gratuită cu peste 1.000 de cărți ortodoxe în PDF și DOC. Vezi [catalogul pe autori și teme](sufletortodox/README.md).
-- [Biblioteca digitală Stavropoleos](https://stavropoleos.ro/biblioteca-digitala/) - Peste 500 de PDF-uri cu partituri psaltice, cărți de cult și tipărituri vechi, adunate de Mănăstirea Stavropoleos.
-- [ÎnvățăturiOrtodoxe.ro](https://invataturiortodoxe.ro) - Cărți ortodoxe în PDF și EPUB, grupate pe teme, de la Sfinții Părinți la viețile sfinților.
-- [Resurse Ortodoxe](https://www.resurse-ortodoxe.ro/categoria_carti-ortodoxe-online/) - Cărți ortodoxe de citit online, cu secțiuni separate pentru PDF și EPUB.
-- [Biblioteca online e-religie](https://e-religie.ro/biblioteca-online/) - Biblia, acatiste și cărți de folos în PDF sau de citit online, pe platforma profesorilor de religie.
+- [Biblioteca SufletOrtodox](https://www.sufletortodox.ro/arhiva-biblioteca-ortodoxa/) - Arhivă gratuită cu peste 1.000 de cărți ortodoxe în PDF și DOC. Vezi [catalogul pe autori și teme](biblioteca/sufletortodox/README.md).
+- [Biblioteca digitală Stavropoleos](https://stavropoleos.ro/biblioteca-digitala/) - Peste 500 de PDF-uri cu partituri psaltice, cărți de cult și tipărituri vechi, adunate de Mănăstirea Stavropoleos. Vezi [catalogul](biblioteca/stavropoleos/README.md).
+- [ÎnvățăturiOrtodoxe.ro](https://invataturiortodoxe.ro) - Cărți ortodoxe în PDF și EPUB, grupate pe teme, de la Sfinții Părinți la viețile sfinților. Vezi [catalogul](biblioteca/invataturiortodoxe/README.md).
+- [Resurse Ortodoxe](https://www.resurse-ortodoxe.ro/categoria_carti-ortodoxe-online/) - Cărți ortodoxe de citit online, cu secțiuni separate pentru PDF și EPUB. Vezi [catalogul](biblioteca/resurse-ortodoxe/README.md).
+- [Biblioteca online e-religie](https://e-religie.ro/biblioteca-online/) - Biblia, acatiste și cărți de folos în PDF sau de citit online, pe platforma profesorilor de religie. Vezi [catalogul](biblioteca/e-religie/README.md).
 - [Biblioteca Seminarului Teologic București](https://bibseminarbuc.ro/?page_id=735) - Pagina de cărți PDF a bibliotecii, cu linkuri spre arhivele digitale ale revistelor teologice românești.
-- [Revista Teologică](https://www.revistateologica.ro/arhiva/) - Arhiva revistei Mitropoliei Ardealului în PDF, cu numere din 1907 până azi.
+- [Revista Teologică](https://www.revistateologica.ro/arhiva/) - Arhiva revistei Mitropoliei Ardealului în PDF, cu numere din 1907 până azi. Vezi [catalogul](biblioteca/revista-teologica/README.md).
+- [Biblioteca ortodoxă](https://github.com/OrthodoxProject/awesome-orthodoxy/blob/main/lists/ro/biblioteca/README.md) - Catalog comun al bibliotecilor de mai sus, cu toate cărțile grupate pe autori și pe teme.
 
 ## Articole și bloguri
 
@@ -93,6 +94,8 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 - [CrestinOrtodox.ro](https://www.crestinortodox.ro) - Portal cu articole, rugăciuni, calendar și informații despre mănăstiri.
 - [Pemptousia](https://pemptousia.ro) - Ediția în limba română a revistei Pemptousia, susținută de prietenii Mănăstirii Vatoped.
 - [Ortodoxia Tinerilor](https://ortodoxiatinerilor.ro) - Portal pentru tineri, cu articole despre credință și viața creștină.
+- [O Chilie Athonită](https://www.chilieathonita.ro) - Articole, conferințe și podcast de la Chilia „Intrarea în biserică a Maicii Domnului” din Schitul Lacu, Muntele Athos.
+- [Mărturie Athonită](https://marturieathonita.ro) - Site-ul Chiliei „Buna Vestire” din Schitul Lacu, Muntele Athos, cu vieți de sfinți, pateric athonit, înregistrări audio și traduceri.
 
 ## Audio
 
@@ -123,12 +126,14 @@ Contribuțiile sunt binevenite. Citește mai întâi [ghidul de contribuție](co
 
 ### Conferințe
 
-- [Arhiva video SufletOrtodox](https://github.com/OrthodoxProject/awesome-orthodoxy/blob/main/lists/ro/sufletortodox/video.md) - Conferințe, slujbe și documentare din arhiva SufletOrtodox.ro, grupate pe vorbitori și teme.
+- [Arhiva video SufletOrtodox](https://github.com/OrthodoxProject/awesome-orthodoxy/blob/main/lists/ro/biblioteca/sufletortodox/video.md) - Conferințe, slujbe și documentare din arhiva SufletOrtodox.ro, grupate pe vorbitori și teme.
 - [Resurse Ortodoxe](https://www.resurse-ortodoxe.ro/categoria_video/) - Conferințe ale părinților duhovnicești, slujbe, documentare și emisiuni TV arhivate.
 
 ### Documentare
 
 - [Trinitas Film](https://www.trinitas.film) - Platforma de streaming a Patriarhiei Române, cu peste 150 de documentare, o parte gratuite și restul cu abonament.
+- [Filme pe O Chilie Athonită](https://www.chilieathonita.ro/category/filme/) - Categoria de filme a site-ului: filme artistice, seriale, scurtmetraje și documentare recomandate, multe cu subtitrare în limba română. Vezi [catalogul](biblioteca/chilie-athonita/README.md).
+- [Istoria și sfințeniile Athosului](https://www.youtube.com/playlist?list=PLTtHUbwXO6_if6YuhgtwN3HnOD0J6EYoM) - Serie de filme a studioului „Lumea Aventurilor”, în limba română. Fiecare film prezintă o mănăstire sau un schit din Muntele Athos: istoria, arhitectura și sfintele odoare. Vezi [catalogul pe mănăstiri](biblioteca/lumea-aventurilor/README.md).
 
 ## Iconografie și artă sacră
 

@@ -7,10 +7,14 @@
   },
   "scripts": {
     "test": "node scripts/validate.mjs",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
     "prepare": "husky"
   },
   "devDependencies": {
     "awesome-lint": "2.3.0",
-    "husky": "9.1.7"
+    "husky": "9.1.7",
+    "vitepress": "1.6.4"
   }
 }

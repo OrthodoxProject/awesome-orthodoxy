@@ -1,0 +1,45 @@
+name: Wiki
+
+# Copies the Markdown files of the repository to the GitHub wiki (see scripts/wiki.mjs) on each push to main.
+# Edits made in the wiki itself are replaced.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wiki
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Publish the wiki
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          SHA: ${{ github.sha }}
+        run: |
+          if ! git clone --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/${REPOSITORY}.wiki.git" wiki; then
+            echo "::error::The wiki has no pages yet. Create the first page at https://github.com/${REPOSITORY}/wiki, then run this workflow again."
+            exit 1
+          fi
+          find wiki -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          node scripts/wiki.mjs wiki
+          cd wiki
+          git add --all
+          if git diff --cached --quiet; then
+            echo "The wiki is already up to date."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit --quiet --message "Update from ${SHA}"
+          git push --quiet
