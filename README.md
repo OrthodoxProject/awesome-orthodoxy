@@ -175,6 +175,7 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ### APIs and Data
 
+- [bible-data](https://github.com/christianpure/bible-data) - Saints with their Orthodox and Western feast days, and the dates of Pascha and Western Easter from 1900 to 2099, as CSV and JSON.
 - [Orthocal API](https://orthocal.info/api/) - Free JSON API with daily readings, commemorations, and fasting rules.
 - [orthocal-python](https://github.com/brianglass/orthocal-python) - Source code of the Orthocal calendar service.
 
